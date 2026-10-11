@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bottlepy/test-docker/commit/48cba1bbf134aeb77087f57dab0fd86bc1243983",
       "git:hexsha": "48cba1bbf134aeb77087f57dab0fd86bc1243983",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T09:24:57.074247+00:00"
     }
   ]
 }
