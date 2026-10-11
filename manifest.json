@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "bottlepy",
+  "repo": "test-docker",
+  "versions": [
+    {
+      "commit": "48cba1bbf134aeb77087f57dab0fd86bc1243983",
+      "parsed_at": "2026-10-11T09:22:47.432008+00:00",
+      "filetree": "filetree/48cba1bbf134aeb77087f57dab0fd86bc1243983.nq.gz",
+      "blobs": [
+        "blob/530ede9990aced2afa92287f4b95c4005347ceb4.nq.gz",
+        "blob/4dc62b31be0a76bd272a6356667692de0a65c5ee.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
